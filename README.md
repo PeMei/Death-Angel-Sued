@@ -14,10 +14,12 @@ a programming trick that whoever is typing secretly types the answer and then la
 
 
 Tutorial PT-BR
+
 Esc- troca entre a pergunta e a resposta, durante o modo de resposta, uma
 frase padrão será escrita na pergunta e a resposta será escrita secretamente.
 
 
 Tutorial EN-US
+
 Esc - toggle between the awswer and the question, during answer mode, a standard 
 sentence will be written in the question and the answer will be written secretly
