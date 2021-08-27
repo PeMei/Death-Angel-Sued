@@ -1,0 +1,52 @@
+@font-face {
+    font-family: 'Melted Monster';
+    src: url("../src/fonts/Melted Monster.ttf");
+}
+
+body{
+    background-color: rgb(22, 22, 22);
+}
+
+#themonio{
+    width: auto;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 1%;
+    text-align: center;
+}
+
+#themonio img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: 400px;
+}
+
+#themonio button{
+    background-color: rgb(22, 22, 22);
+    border-color: black;
+    color: rgb(197, 1, 1);
+    font-family: 'Melted Monster';
+    font-size: 30px;
+    border-radius: 5px;
+}
+
+#themonio button:hover{
+    color: white;
+    cursor: not-allowed;
+}
+
+#themonio input{
+    display: inline-block;
+    width: 60%;
+    background-color: rgb(22, 22, 22);
+    border-color: black;
+    border-radius: 5px;
+    margin-top: 20px;
+    color: rgb(197, 1, 1);
+    outline-style: none;
+    font-family: 'Melted Monster';
+    font-size: 30px;
+    padding: 4px;
+}
