@@ -9,7 +9,7 @@ Sobre o projeto
 
 O projeto foi feito para fazer parte do meu portfólio e demostrar minha experência com desenvolvimento WEB, eu escolhi um jogo que fosse possível de replicar usando apenas Javascript, Eu escolhi replicar o jogo Sued pois ele é relativamente simples de replicar e possui um algoritmo interssante, Usei apenas o básico para replicar o Sued, ele foi feito usando apenas HTML e CSS para desenhar a página e Javascript puro para implementar a lógica.
 
-Experimento você mesmo
+Experimente você mesmo
 
 Caso queira ver o projeto em funcionamento, ele foi hospedado no github pages, para acessar só clique no link abaixo.
 
