@@ -1,25 +1,13 @@
 # D34TH 4NG3L(Sued)
 a JS sued copy
 
-PT-BR
+Sobre o Sued
+Sued é um jogo brasileiro relativamente popular onde supostamente uma entidade maligna é capaz de responder qualquer pergunta, na realidade o programa não possui sequer inteligência, a resposta é dada pelo jogador e o jogo apenas sobrepõe a caixa de texto com uma frase pré-programada e em seguida repete a resposta que foi escrita, o sued foi feito para o jogador jogar junto com outras pessoas que desconhecem o truque.
 
-Sued é um programa brasileiro relativamente popular que diz ser é uma entidade maligna e responde perguntas pessoais sobre o usuário (por exemplo, o endereço),
-mas não passa de apenas de um truque de programação, onde quem está digitando, digita secretamente a responta da pergunta secretamente e depois ri da sua cara
+Sobre o projeto
+O projeto foi feito para fazer parte do meu portfólio e demostrar minha experência com desenvolvimento WEB, eu escolhi um jogo que fosse possível de replicar usando apenas Javascript, Eu escolhi replicar o jogo Sued pois ele é relativamente simples de replicar e possui um algoritmo interssante, Usei apenas o básico para replicar o Sued, ele foi feito usando apenas HTML e CSS para desenhar a página e Javascript puro para implementar a lógica.
 
-
-EN-US
-
-Sued is a relatively popular brazillian program that says to be an demonic entity and answers personal questions about the user (eg address), but is only
-a programming trick that whoever is typing secretly types the answer and then laughs in your face
-
-
-Tutorial PT-BR
-
-Esc- troca entre a pergunta e a resposta, durante o modo de resposta, uma
-frase padrão será escrita na pergunta e a resposta será escrita secretamente.
-
-
-Tutorial EN-US
-
-Esc - toggle between the awswer and the question, during answer mode, a standard 
-sentence will be written in the question and the answer will be written secretly
+Experimento você mesmo
+Caso queira ver o projeto em funcionamento, ele foi hospedado no github pages, para acessar só clique no link abaixo.
+https://pedrohmeireles.github.io/Death-Angel-Sued/
+Apertando ESC você alterna entre o modo resposta e o modo livre, no modo livre você pode escrever na caixa de texto sem o programa alterar, ele é usado para completar a frase restante e escrever a pergunta depois da frase, o modo resposta você digita a resposta da pergunta e o programa sobrescreve o texto com uma frase pré-programada e armazena a resposta.
