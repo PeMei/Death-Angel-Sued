@@ -11,7 +11,7 @@ let blocker = document.querySelector("#blocker");
 
 
 let i = 0;
-clear();
+limpar();
 texto.addEventListener("keydown", function(event){
     if(hiddenmode == true && event.key.length == 1){
         event.preventDefault();
@@ -29,7 +29,7 @@ function mostrar(){
     resp.innerHTML = escondido;
 }
 //Math.floor(Math.random() * array.length)
-function clear(){
+function limpar(){
     texto.value = "";
     frase = frasessecretas[0];
     escondido = "";
