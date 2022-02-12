@@ -1,5 +1,5 @@
 let hiddenmode = false;
-let frasessecretas = ['Grande D34th 4ng3l, gostaria de ', 'Poderoso D34th 4ng3l, você poderia ']
+let frasessecretas = ['Grande Fallen Angel, gostaria de saber ', 'Poderoso Fallen Angel, você poderia me dizer', 'Grande senhor da escuridão Fallen Angel, você poderia me responder ', 'Fallen Angel ser de grande sabedoria, gostaria muito de saber ']
 let frase = "";
 let escondido = ""
 
@@ -28,10 +28,10 @@ function mostrar(){
     popup.classList.remove("hidden")
     resp.innerHTML = escondido;
 }
-//Math.floor(Math.random() * array.length)
+//
 function limpar(){
     texto.value = "";
-    frase = frasessecretas[0];
+    frase = frasessecretas[Math.floor(Math.random() * array.length)];
     escondido = "";
     i = 0;
     blocker.classList.add("hidden")
