@@ -28,10 +28,10 @@ function mostrar(){
     popup.classList.remove("hidden")
     resp.innerHTML = escondido;
 }
-//
+
 function limpar(){
     texto.value = "";
-    frase = frasessecretas[Math.floor(Math.random() * array.length)];
+    frase = frasessecretas[Math.floor(Math.random() * frasessecretas.length)];
     escondido = "";
     i = 0;
     blocker.classList.add("hidden")
