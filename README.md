@@ -13,6 +13,6 @@ Experimente você mesmo
 
 Caso queira ver o projeto em funcionamento, ele foi hospedado no github pages, para acessar só clique no link abaixo.
 
-https://pedrohmeireles.github.io/Fallen-Angel/
+https://pedrohmeireles2001.github.io/Fallen-Angel/
 
 Apertando ESC você alterna entre o modo resposta e o modo livre, no modo livre você pode escrever na caixa de texto sem o programa alterar, ele é usado para completar a frase restante e escrever a pergunta depois da frase, o modo resposta você digita a resposta da pergunta e o programa sobrescreve o texto com uma frase pré-programada e armazena a resposta.
